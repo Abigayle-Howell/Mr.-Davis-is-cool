@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Chemistry Balancing Game</title>
+    <title>Mr. Davis is cool</title>
     <link rel="stylesheet" href="style.css">
 </head>
 <body>
